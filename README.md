@@ -10,7 +10,8 @@
    npm install
 
 1. **Sau khi cài đặt xong, tiến hành xây dựng ứng dụng bằng lệnh:**
-    ```bash
-node index.js
+   ```bash
+   node index.js
+   
 # Lưu ý: Đảm bảo bạn đã thực hiện đầy đủ các bước trên để tránh gặp lỗi trong quá trình sử dụng.
 Phiên bản này ngắn gọn, dễ đọc và trình bày rõ ràng hơn.
